@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.nxp.s32ds.spt:Spt2Program xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.nxp.s32ds.gte="http://s32ds.nxp.com/gte/gas/1.0.0" xmlns:com.nxp.s32ds.spt="http://s32ds.nxp.com/gte/spt2/1.0.0" name="adas_learn_Z4_0">
+  <statements xsi:type="com.nxp.s32ds.gte:GasIncludeDirective" name=".include" label="tram.inc" successor="//@statements.1" fileName="tram.inc"/>
+  <statements xsi:type="com.nxp.s32ds.gte:GasIncludeDirective" name=".include" label="oram.inc" predecessor="//@statements.0" successor="//@statements.2" fileName="oram.inc"/>
+  <statements xsi:type="com.nxp.s32ds.gte:GasIncludeDirective" name=".include" label="wr.inc" predecessor="//@statements.1" fileName="wr.inc"/>
+</com.nxp.s32ds.spt:Spt2Program>

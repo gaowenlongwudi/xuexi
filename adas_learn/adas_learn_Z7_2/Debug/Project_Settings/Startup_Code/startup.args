@@ -1,0 +1,11 @@
+-c
+-I"J:/CX/adas/adas_learn/adas_learn_Z7_2/include"
+-x assembler-with-cpp
+-DSPV_ENABLE
+-g3
+-mcpu=e200z7
+-specs=nosys.specs
+-mbig
+-mvle
+-mregnames
+--sysroot="C:/NXP/S32DS_Power_v2.1/S32DS/build_tools/powerpc-eabivle-4_9/powerpc-eabivle/newlib"

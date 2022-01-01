@@ -1,0 +1,14 @@
+-T"J:/CX/adas/adas_learn/adas_learn_Z7_1/Project_Settings/Linker_Files/S32R274_flash.ld"
+-Wl,-Map,"adas_learn_Z7_1.map"
+-Xlinker
+--gc-sections
+-mcpu=e200z7
+-specs=nosys.specs
+-mhard-float
+--sysroot="C:/NXP/S32DS_Power_v2.1/S32DS/build_tools/powerpc-eabivle-4_9/powerpc-eabivle/newlib"
+"./Project_Settings/Startup_Code/startup.o"
+"./src/S32R274__Interrupt_Init.o"
+"./src/Vector.o"
+"./src/intc_SW_mode_isr_vectors_S32R274.o"
+"./src/intc_sw_handlers.o"
+"./src/main_Z7_1.o"

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.nxp.s32ds.gte="http://s32ds.nxp.com/gte/gas/1.0.0" xmlns:com.nxp.s32ds.spt="http://s32ds.nxp.com/gte/spt2/1.0.0" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style">
+  <viewpoint:DAnalysis xmi:id="_80sOkGq1EeyWa_XZjycSZQ" selectedViews="_9EHxsGq1EeyWa_XZjycSZQ __DaI4Gq1EeyWa_XZjycSZQ" version="12.1.2.201804131029">
+    <semanticResources>adas_learn_Z4_0.spt2</semanticResources>
+    <semanticResources>adas_learn_Z4_0.sptgen</semanticResources>
+    <ownedViews xmi:type="viewpoint:DView" xmi:id="_9EHxsGq1EeyWa_XZjycSZQ">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/com.nxp.s32ds.gte.sptprogram.design/description/sptprogram.odesign#//@ownedViewpoints[name='sptprogram_design']"/>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" xmi:id="_-6QM4Gq1EeyWa_XZjycSZQ" name="SPT Program Flow : adas_learn_Z4_0" repPath="#_9FPMAGq1EeyWa_XZjycSZQ">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/com.nxp.s32ds.gte.sptprogram.design/description/sptprogram.odesign#//@ownedViewpoints[name='sptprogram_design']/@ownedRepresentations[name='sptprogram_flow']"/>
+        <target xmi:type="com.nxp.s32ds.spt:Spt2Program" href="adas_learn_Z4_0.spt2#/"/>
+      </ownedRepresentationDescriptors>
+    </ownedViews>
+    <ownedViews xmi:type="viewpoint:DView" xmi:id="__DaI4Gq1EeyWa_XZjycSZQ">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/com.nxp.s32ds.gte.spt2.design/description/spt2.odesign#//@ownedViewpoints[name='spt2_design']"/>
+    </ownedViews>
+  </viewpoint:DAnalysis>
+  <diagram:DSemanticDiagram xmi:id="_-6D_oGq1EeyWa_XZjycSZQ" name="SPT Program Flow : adas_learn_Z4_0" uid="_9FPMAGq1EeyWa_XZjycSZQ">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_-6D_oWq1EeyWa_XZjycSZQ" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" xmi:id="_-6D_omq1EeyWa_XZjycSZQ"/>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_-70TIGq1EeyWa_XZjycSZQ" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_-70TIWq1EeyWa_XZjycSZQ" type="Sirius" element="_-6D_oGq1EeyWa_XZjycSZQ" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_-8yjgGq1EeyWa_XZjycSZQ" type="2003" element="_-6D_pGq1EeyWa_XZjycSZQ">
+          <children xmi:type="notation:Node" xmi:id="_-9PPcGq1EeyWa_XZjycSZQ" type="5007"/>
+          <children xmi:type="notation:Node" xmi:id="_-9VWEGq1EeyWa_XZjycSZQ" type="7004">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_-9VWEWq1EeyWa_XZjycSZQ"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_-9VWEmq1EeyWa_XZjycSZQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_-8zKkGq1EeyWa_XZjycSZQ" fontName="Microsoft YaHei UI" fontHeight="12" bold="true"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-8zKkWq1EeyWa_XZjycSZQ"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_-9wM0Gq1EeyWa_XZjycSZQ" type="2003" element="_-6D_pmq1EeyWa_XZjycSZQ">
+          <children xmi:type="notation:Node" xmi:id="_-9xa8Gq1EeyWa_XZjycSZQ" type="5007"/>
+          <children xmi:type="notation:Node" xmi:id="_-9xa8Wq1EeyWa_XZjycSZQ" type="7004">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_-9xa8mq1EeyWa_XZjycSZQ"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_-9xa82q1EeyWa_XZjycSZQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_-9wM0Wq1EeyWa_XZjycSZQ" fontName="Microsoft YaHei UI" fontHeight="12" bold="true"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-9wM0mq1EeyWa_XZjycSZQ"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_-9yCAGq1EeyWa_XZjycSZQ" type="2003" element="_-6D_qGq1EeyWa_XZjycSZQ">
+          <children xmi:type="notation:Node" xmi:id="_-9zQIGq1EeyWa_XZjycSZQ" type="5007"/>
+          <children xmi:type="notation:Node" xmi:id="_-9z3MGq1EeyWa_XZjycSZQ" type="7004">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_-9z3MWq1EeyWa_XZjycSZQ"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_-9z3Mmq1EeyWa_XZjycSZQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_-9yCAWq1EeyWa_XZjycSZQ" fontName="Microsoft YaHei UI" fontHeight="12" bold="true"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-9yCAmq1EeyWa_XZjycSZQ"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_-70TImq1EeyWa_XZjycSZQ"/>
+        <edges xmi:type="notation:Edge" xmi:id="_--3nIGq1EeyWa_XZjycSZQ" type="4001" element="_-6D_qmq1EeyWa_XZjycSZQ" source="_-8yjgGq1EeyWa_XZjycSZQ" target="_-9wM0Gq1EeyWa_XZjycSZQ">
+          <children xmi:type="notation:Node" xmi:id="_--74kGq1EeyWa_XZjycSZQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_--8foGq1EeyWa_XZjycSZQ" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_-_DNUGq1EeyWa_XZjycSZQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-_DNUWq1EeyWa_XZjycSZQ" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_-_FCgGq1EeyWa_XZjycSZQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-_FCgWq1EeyWa_XZjycSZQ" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_--3nIWq1EeyWa_XZjycSZQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_--3nImq1EeyWa_XZjycSZQ" fontName="Microsoft YaHei UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_--3nI2q1EeyWa_XZjycSZQ" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="__AD58Gq1EeyWa_XZjycSZQ" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="__AEhAGq1EeyWa_XZjycSZQ" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="__AFIEGq1EeyWa_XZjycSZQ" type="4001" element="_-6D_rWq1EeyWa_XZjycSZQ" source="_-9wM0Gq1EeyWa_XZjycSZQ" target="_-9yCAGq1EeyWa_XZjycSZQ">
+          <children xmi:type="notation:Node" xmi:id="__AGWMGq1EeyWa_XZjycSZQ" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="__AGWMWq1EeyWa_XZjycSZQ" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="__AGWMmq1EeyWa_XZjycSZQ" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="__AGWM2q1EeyWa_XZjycSZQ" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="__AG9QGq1EeyWa_XZjycSZQ" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="__AG9QWq1EeyWa_XZjycSZQ" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="__AFIEWq1EeyWa_XZjycSZQ"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="__AFIEmq1EeyWa_XZjycSZQ" fontName="Microsoft YaHei UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="__AFIE2q1EeyWa_XZjycSZQ" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="__ATxkGq1EeyWa_XZjycSZQ" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="__ATxkWq1EeyWa_XZjycSZQ" id="(0.5,0.5)"/>
+        </edges>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_-6D_pGq1EeyWa_XZjycSZQ" name="tram.inc" outgoingEdges="_-6D_qmq1EeyWa_XZjycSZQ">
+      <target xmi:type="com.nxp.s32ds.gte:GasIncludeDirective" href="adas_learn_Z4_0.spt2#//@statements.0"/>
+      <semanticElements xmi:type="com.nxp.s32ds.gte:GasIncludeDirective" href="adas_learn_Z4_0.spt2#//@statements.0"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_-6D_pWq1EeyWa_XZjycSZQ" labelSize="12" borderSize="1" borderSizeComputationExpression="1" foregroundColor="194,239,255">
+        <labelFormat>bold</labelFormat>
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/com.nxp.s32ds.gte.sptprogram.design/description/sptprogram.odesign#//@ownedViewpoints[name='sptprogram_design']/@ownedRepresentations[name='sptprogram_flow']/@defaultLayer/@containerMappings[name='directive']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMappingImport" href="platform:/plugin/com.nxp.s32ds.gte.sptprogram.design/description/sptprogram.odesign#//@ownedViewpoints[name='sptprogram_design']/@ownedRepresentations[name='sptprogram_flow']/@defaultLayer/@containerMappings[name='include_directive']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_-6D_pmq1EeyWa_XZjycSZQ" name="oram.inc" outgoingEdges="_-6D_rWq1EeyWa_XZjycSZQ" incomingEdges="_-6D_qmq1EeyWa_XZjycSZQ">
+      <target xmi:type="com.nxp.s32ds.gte:GasIncludeDirective" href="adas_learn_Z4_0.spt2#//@statements.1"/>
+      <semanticElements xmi:type="com.nxp.s32ds.gte:GasIncludeDirective" href="adas_learn_Z4_0.spt2#//@statements.1"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_-6D_p2q1EeyWa_XZjycSZQ" labelSize="12" borderSize="1" borderSizeComputationExpression="1" foregroundColor="194,239,255">
+        <labelFormat>bold</labelFormat>
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/com.nxp.s32ds.gte.sptprogram.design/description/sptprogram.odesign#//@ownedViewpoints[name='sptprogram_design']/@ownedRepresentations[name='sptprogram_flow']/@defaultLayer/@containerMappings[name='directive']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMappingImport" href="platform:/plugin/com.nxp.s32ds.gte.sptprogram.design/description/sptprogram.odesign#//@ownedViewpoints[name='sptprogram_design']/@ownedRepresentations[name='sptprogram_flow']/@defaultLayer/@containerMappings[name='include_directive']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_-6D_qGq1EeyWa_XZjycSZQ" name="wr.inc" incomingEdges="_-6D_rWq1EeyWa_XZjycSZQ">
+      <target xmi:type="com.nxp.s32ds.gte:GasIncludeDirective" href="adas_learn_Z4_0.spt2#//@statements.2"/>
+      <semanticElements xmi:type="com.nxp.s32ds.gte:GasIncludeDirective" href="adas_learn_Z4_0.spt2#//@statements.2"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_-6D_qWq1EeyWa_XZjycSZQ" labelSize="12" borderSize="1" borderSizeComputationExpression="1" foregroundColor="194,239,255">
+        <labelFormat>bold</labelFormat>
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/com.nxp.s32ds.gte.sptprogram.design/description/sptprogram.odesign#//@ownedViewpoints[name='sptprogram_design']/@ownedRepresentations[name='sptprogram_flow']/@defaultLayer/@containerMappings[name='directive']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMappingImport" href="platform:/plugin/com.nxp.s32ds.gte.sptprogram.design/description/sptprogram.odesign#//@ownedViewpoints[name='sptprogram_design']/@ownedRepresentations[name='sptprogram_flow']/@defaultLayer/@containerMappings[name='include_directive']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_-6D_qmq1EeyWa_XZjycSZQ" sourceNode="_-6D_pGq1EeyWa_XZjycSZQ" targetNode="_-6D_pmq1EeyWa_XZjycSZQ">
+      <target xmi:type="com.nxp.s32ds.gte:GasIncludeDirective" href="adas_learn_Z4_0.spt2#//@statements.0"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_-6D_q2q1EeyWa_XZjycSZQ" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/com.nxp.s32ds.gte.sptprogram.design/description/sptprogram.odesign#//@ownedViewpoints[name='sptprogram_design']/@ownedRepresentations[name='sptprogram_flow']/@defaultLayer/@edgeMappings[name='successor']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_-6D_rGq1EeyWa_XZjycSZQ"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/com.nxp.s32ds.gte.sptprogram.design/description/sptprogram.odesign#//@ownedViewpoints[name='sptprogram_design']/@ownedRepresentations[name='sptprogram_flow']/@defaultLayer/@edgeMappings[name='successor']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_-6D_rWq1EeyWa_XZjycSZQ" sourceNode="_-6D_pmq1EeyWa_XZjycSZQ" targetNode="_-6D_qGq1EeyWa_XZjycSZQ">
+      <target xmi:type="com.nxp.s32ds.gte:GasIncludeDirective" href="adas_learn_Z4_0.spt2#//@statements.1"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_-6D_rmq1EeyWa_XZjycSZQ" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/com.nxp.s32ds.gte.sptprogram.design/description/sptprogram.odesign#//@ownedViewpoints[name='sptprogram_design']/@ownedRepresentations[name='sptprogram_flow']/@defaultLayer/@edgeMappings[name='successor']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_-6D_r2q1EeyWa_XZjycSZQ"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/com.nxp.s32ds.gte.sptprogram.design/description/sptprogram.odesign#//@ownedViewpoints[name='sptprogram_design']/@ownedRepresentations[name='sptprogram_flow']/@defaultLayer/@edgeMappings[name='successor']"/>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/com.nxp.s32ds.gte.sptprogram.design/description/sptprogram.odesign#//@ownedViewpoints[name='sptprogram_design']/@ownedRepresentations[name='sptprogram_flow']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" xmi:id="_-6D_sGq1EeyWa_XZjycSZQ"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/plugin/com.nxp.s32ds.gte.sptprogram.design/description/sptprogram.odesign#//@ownedViewpoints[name='sptprogram_design']/@ownedRepresentations[name='sptprogram_flow']/@defaultLayer"/>
+    <activatedLayers xmi:type="description_1:AdditionalLayer" href="platform:/plugin/com.nxp.s32ds.gte.sptprogram.design/description/sptprogram.odesign#//@ownedViewpoints[name='sptprogram_design']/@ownedRepresentations[name='sptprogram_flow']/@additionalLayers[name='Validation']"/>
+    <activatedLayers xmi:type="description_1:AdditionalLayer" href="platform:/plugin/com.nxp.s32ds.gte.spt2.design/description/spt2.odesign#//@ownedViewpoints[name='spt2_design']/@ownedRepresentationExtensions[name='SPT2%20Control%20Flow']/@layers[name='SPT2']"/>
+    <target xmi:type="com.nxp.s32ds.spt:Spt2Program" href="adas_learn_Z4_0.spt2#/"/>
+  </diagram:DSemanticDiagram>
+</xmi:XMI>
